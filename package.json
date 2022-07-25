@@ -1,6 +1,9 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Markus Antoni Suwignyo",
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "express": "^4.14.0"
   },
